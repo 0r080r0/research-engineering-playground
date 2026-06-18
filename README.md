@@ -1,6 +1,6 @@
 # Research Engineering Playground
 
-This is an evolving research-engineering toolkit and computational PhD infrastructure project - basically, a growing collection of reusable tools, workflows, and computational research infrastructure developed alongside my PhD. 🥁
+This is an evolving research-engineering toolkit and computational PhD infrastructure project - a growing collection of reusable tools, workflows, and computational research infrastructure developed alongside my PhD in Musician Health. 🥁🎶🎻
 
 **Focus areas include:** 💻
 
