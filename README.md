@@ -2,7 +2,7 @@
 
 This is an evolving research-engineering toolkit and computational PhD infrastructure project - a growing collection of reusable tools, workflows, and computational research infrastructure developed alongside my PhD in Musician Health. 🥁🎶🎻
 
-**Focus areas include:** 💻
+**💻 Focus areas include:** 
 
 - Research software engineering
 - Reproducible analysis workflows
@@ -27,7 +27,7 @@ This is an evolving research-engineering toolkit and computational PhD infrastru
 - EMG processing prototypes
 - Automated reporting experiments
 
-## Long-Term Vision 🔭
+## 🔭 Long-Term Vision 
 
 Create a modular research toolkit capable of supporting:
 
