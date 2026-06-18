@@ -10,7 +10,7 @@ This is an evolving research-engineering toolkit and computational PhD infrastru
 - Mixed and multilevel modeling
 - Machine learning for health research
 - Automated reporting
-- Scientific visualization
+- Scientific visualisation
 
 ## Goals
 
